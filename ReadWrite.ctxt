@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ReadWrite
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\n\ This\ method\ run()\ allows\ the\ ReadWrite\ object\ to\ run\ and\ print\ out\n\ the\ total\ number\ of\ words,\ letters\ and\ the\ last\ word\ of\ the\ text\ file\n\ It\ uses\ try\ and\ catch\n
+numComments=3
